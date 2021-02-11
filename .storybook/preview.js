@@ -13,6 +13,7 @@ addParameters({
       { name: 'Teal lightest', value: COLOR.TEAL.LIGHTEST },
       { name: 'Violet lightest', value: COLOR.VIOLET.LIGHTEST },
       { name: 'Teal darkest', value: COLOR.TEAL.DARKEST },
+      { name: 'Cashbac darkest', value: COLOR.CASHBAC.LIGHTEST },
     ],
   },
 });

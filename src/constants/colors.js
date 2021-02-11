@@ -50,6 +50,13 @@ export const COLOR = {
     DARK: '#6961ff',
     DARKEST: '#130abf',
   },
+  CASHBAC: {
+    LIGHTEST: '#E9F6FC',
+    LIGHT: '#51BDE9',
+    NORMAL: '#26ade4',
+    DARK: '#1E8AB6',
+    DARKEST: '#166788',
+  },
 };
 
 export const COLORS = Object.keys(COLOR).map((key) => key.toLowerCase());
